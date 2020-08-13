@@ -1,7 +1,6 @@
 'use strict';
 
 module.exports = {
-
   types: [
     { value: '特性', name: '特性:    一个新的特性' },
     { value: '修复', name: '修复:    修复一个Bug' },
